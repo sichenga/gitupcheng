@@ -50,8 +50,9 @@
 切换分支 git checkout 分支名
 
 合并分支 git merge 分支名
-删除分支 给git branch -d 分支名
-
+删除分支 给git branch -d 分支名     
+ --allow-unrelated-histories 手动合并 后缀
+git remote rm 仓库名 删除仓库地址
 
 团队合作自己的流程：
 
